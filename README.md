@@ -12,5 +12,4 @@ In the folder you can add images (jpg or png), but remember that you also need t
 > 171 e 202 -> se l'immagine nella cartella è di tipo jpg;
 > 210 e 241 -> se l'immagine nella cartella è di tipo png.
 # How to run the program
-> gcc main.c -o out -lm
-> ./out
+> gcc main.c -o out -lm<br>./out
