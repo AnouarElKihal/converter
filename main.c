@@ -285,7 +285,6 @@ int main() {
         printf("Enter the binary code: ");
         scanf("%s", bin);
         printf("Result: %c\n", btoa(bin));
-        return 0;
         break;
       case 5:
         printf("COLORED IMAGE -> GRAY IMAGE\n");
@@ -309,5 +308,5 @@ int main() {
         break;
     }
   }
-
+  return 0;
 }
