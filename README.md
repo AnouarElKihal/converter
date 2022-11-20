@@ -1,4 +1,4 @@
-# Converter
+# CONVERTER
 In this program you have the option to choose the conversion option from the menu that will appear in the terminal. 
 There are several functions to convert binary code to something else or vice versa. 
 In addition there is also the option to convert a color image to gray or sepia. 
